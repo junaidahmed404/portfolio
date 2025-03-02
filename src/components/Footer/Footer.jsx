@@ -51,14 +51,14 @@ function Footer() {
               <i className="fab fa-linkedin-in"></i>
             </a>
             <a
-              href="https://www.instagram.com/junaid_x_ahmed/"
+              href="https://www.instagram.com/junaidahmedx98/"
               target="_blank"
               rel="noopener noreferrer"
             >
               <i className="fab fa-instagram"></i>
             </a>
             <a
-              href="https://github.com/junaidahmed98"
+              href="https://github.com/junaidahmed404"
               target="_blank"
               rel="noopener noreferrer"
             >

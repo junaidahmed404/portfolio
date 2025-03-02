@@ -37,7 +37,7 @@
 }
 
 .projectCard:hover {
-  transform: scale(1.05); /* Slight zoom on hover */
+  transform: scale(1.01); /* Slight zoom on hover */
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4); /* Dark shadow effect */
 }
 
@@ -55,6 +55,41 @@
   border-radius: 8px;
   margin-bottom: 1rem;
 }
+
+.projectCard .btn-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.projectCard .btn {
+  padding: 8px 12px;
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: none;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.projectCard .btn-visit {
+  background-color: #007bff; /* Blue */
+}
+
+.projectCard .btn-visit:hover {
+  background-color: #0056b3;
+}
+
+.projectCard .btn-github {
+  background-color: #24292e; /* GitHub Dark */
+}
+
+.projectCard .btn-github:hover {
+  background-color: #1b1f23;
+}
+
 
 h2 {
   font-size: 1.8rem;

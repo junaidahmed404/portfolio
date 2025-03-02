@@ -17,6 +17,39 @@ function HomeSection() {
           </div>
           <div className="platForm borderDark borderLight border">
             <a
+              href="https://www.linkedin.com/in/junaidahmed404/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <div className="iconName">
+                <h3>LinkedIn</h3>
+              </div>
+            </a>
+          </div>
+          <div className="platForm borderDark borderLight border">
+            <a
+              href="https://github.com/junaidahmed404"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <div className="iconName">
+                <h3>Github</h3>
+              </div>
+            </a>
+          </div>
+          <div className="platForm borderDark borderLight border">
+            <a
+              href="https://x.com/junaidahmed_98"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <div className="iconName">
+                <h3>Twitter</h3>
+              </div>
+            </a>
+          </div>
+          <div className="platForm borderDark borderLight border">
+            <a
               href="https://www.facebook.com/people/Junaid-Ahmed/pfbid0xXMbD16iXge2BYGRHWV9kxunKqqaZFM3F2EKemkuuRsgCZcR9dri3AfgbWHtKmDVl/?mibextid=ZbWKwL"
               target="_blank"
               rel="noopener noreferrer"
@@ -37,39 +70,9 @@ function HomeSection() {
               </div>
             </a>
           </div>
-          <div className="platForm borderDark borderLight border">
-            <a
-              href="https://x.com/junaidahmed_98"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <div className="iconName">
-                <h3>Twitter</h3>
-              </div>
-            </a>
-          </div>
-          <div className="platForm borderDark borderLight border">
-            <a
-              href="https://www.linkedin.com/in/junaidahmed404/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <div className="iconName">
-                <h3>LinkedIn</h3>
-              </div>
-            </a>
-          </div>
-          <div className="platForm borderDark borderLight border">
-            <a
-              href="https://www.youtube.com/channel/UCn2Snq4iU-PQTThFfcItEMg"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <div className="iconName">
-                <h3>Youtube</h3>
-              </div>
-            </a>
-          </div>
+
+
+
         </div>
         <button
           className="btn btn--primary hoverOver boxShadow"
@@ -81,7 +84,7 @@ function HomeSection() {
         </button>
         <div className="Numbers colorChangeHeading">
           <div className="experienceCount border">
-            <span className="count"> 02+ </span>
+            <span className="count"> 03+ </span>
             <span className="text"> Year Of Experience </span>
           </div>
           <div className="projectCount border">

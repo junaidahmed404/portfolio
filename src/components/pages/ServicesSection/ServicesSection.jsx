@@ -19,15 +19,19 @@ function ServicesSection() {
         <span style={{ color: "rgb(0, 255, 0)" }}>$$$</span>
       </p>
       <div className="border ServicesDiv">
+
+
+
         <div className="ServicesBox">
+          
           <div className="serviceOfferCard border">
             <img src={Custom} alt="Custom WebApp Development" />
             <h2 className="colorChangeHeading">Custom WebApp Development</h2>
             <p>Turning your visions into dynamic digital realities</p>
             <a href={ContactMeSection}>
-              <button className="btn--primary btn btnBtn boxShadow">
+              {/* <button className="btn--primary btn btnBtn boxShadow">
                 Get Started
-              </button>
+              </button> */}
             </a>
           </div>
           <div className="serviceOfferCard border">
@@ -37,9 +41,9 @@ function ServicesSection() {
               Elevating your online presence with captivating frontend design
             </p>
             <a href={ContactMeSection}>
-              <button className="btn--primary btn btnBtn boxShadow">
+              {/* <button className="btn--primary btn btnBtn boxShadow">
                 Get Started
-              </button>
+              </button> */}
             </a>
           </div>
           <div className="serviceOfferCard border">
@@ -47,9 +51,9 @@ function ServicesSection() {
             <h2 className="colorChangeHeading">Wordpress WebApp Development</h2>
             <p>Crafting Dynamic WordPress WebApps for Your Digital Success</p>
             <a href={ContactMeSection}>
-              <button className="btn--primary btn btnBtn boxShadow">
+              {/* <button className="btn--primary btn btnBtn boxShadow">
                 Get Started
-              </button>
+              </button> */}
             </a>
           </div>
           <div className="serviceOfferCard border">
@@ -61,9 +65,9 @@ function ServicesSection() {
               Bringing your ideas to life with vibrant creativity and precision
             </p>
             <a href={ContactMeSection}>
-              <button className="btn--primary btn btnBtn boxShadow">
+              {/* <button className="btn--primary btn btnBtn boxShadow">
                 Get Started
-              </button>
+              </button> */}
             </a>
           </div>
         </div>
