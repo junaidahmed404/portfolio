@@ -3,7 +3,7 @@ import profile from "../../../assets/profilePng.png";
 function HomeSection() {
   return (
     <section id="home" className="section">
-      {/* LEFT */}
+      {/* LEFT Side */}
       <div className="left">
         <h1 className="colorChangeHeading codeColor">MERN Stack Developer</h1>
         <h2>Welcome to my Portfolio!</h2>
