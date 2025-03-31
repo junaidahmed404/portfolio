@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e702fd53.css",
+    "main.js": "/portfolio/static/js/main.4d8c5e53.js",
+    "static/js/488.d1b32952.chunk.js": "/portfolio/static/js/488.d1b32952.chunk.js",
+    "static/media/R.jpg": "/portfolio/static/media/R.3a98668c18848515edc7.jpg",
+    "static/media/HospitallineProject.png": "/portfolio/static/media/HospitallineProject.918a416db74f2d542f33.png",
+    "static/media/WeatherAppProject.png": "/portfolio/static/media/WeatherAppProject.f20d6de2469c5f0523e2.png",
+    "static/media/frontend_webdeveloper.jpg": "/portfolio/static/media/frontend_webdeveloper.b9f9aa89ab8aa2920145.jpg",
+    "static/media/SpotifyProject.png": "/portfolio/static/media/SpotifyProject.3346c06d45ec42d2b6ec.png",
+    "static/media/PortfolioProject.png": "/portfolio/static/media/PortfolioProject.5a5a4112ec7aa8a00ddf.png",
+    "static/media/profilePng.png": "/portfolio/static/media/profilePng.767d0c2c71b1589c8193.png",
+    "static/media/Junaid-Ahmed-FullStack-web-developer-resume.pdf": "/portfolio/static/media/Junaid-Ahmed-FullStack-web-developer-resume.737970d18fb241543bf6.pdf",
+    "static/media/PassGaurdProject.png": "/portfolio/static/media/PassGaurdProject.fb08b996434306053114.png",
+    "static/media/Wordpress.jpg": "/portfolio/static/media/Wordpress.a00759de51f678405be7.jpg",
+    "static/media/Graphics.jpg": "/portfolio/static/media/Graphics.c51337c8a4c00e234685.jpg",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.a3d7a8a3df62d59204bb.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.e702fd53.css.map": "/portfolio/static/css/main.e702fd53.css.map",
+    "main.4d8c5e53.js.map": "/portfolio/static/js/main.4d8c5e53.js.map",
+    "488.d1b32952.chunk.js.map": "/portfolio/static/js/488.d1b32952.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e702fd53.css",
+    "static/js/main.4d8c5e53.js"
+  ]
+}
