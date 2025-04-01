@@ -6,11 +6,10 @@ import ErrorPage from "./components/pages/ErrorPage/ErrorPage";
 
 const App = () => {
   return (
-    <Router basename={process.env.NODE_ENV === 'production' ? '/portfolio' : '/'}>
+    <Router basename="/portfolio">
       <Header />
       <Routes>
         <Route path="/" element={<Layouts />} />
-        <Route path="/portfolio" element={<Layouts />} />
         <Route path="*" element={<ErrorPage />} />
       </Routes>
       <Footer />

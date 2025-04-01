@@ -1,6 +1,6 @@
 import "./ServicesSection.css";
 import WordPress from "../../../assets/Wordpress.jpg";
-import Custom from "../../../assets/R.jpg";
+import Custom from "../../../assets/R1.jpg";
 import Frontend from "../../../assets/frontend_webdeveloper.jpg";
 import Graphics from "../../../assets/Graphics.jpg";
 import ContactMeSection from "../ContactSection/ContactSection";
