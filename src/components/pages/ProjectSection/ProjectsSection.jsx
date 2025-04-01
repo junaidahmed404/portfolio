@@ -26,7 +26,7 @@ const projects = [
   {
     title: "Authentication Project",
     description:
-      "A personal portfolio website showcasing my projects, skills, and experience as a web developer.",
+      "A standalone MERN authentication service with JWT and role-based access control.",
     github: "https://github.com/yourusername/portfolio",
     images: [P3I1, P3I2, P3I3, P3I4, P3I5, P3I6, P3I7], // Replace with real images
   },
