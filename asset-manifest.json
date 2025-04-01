@@ -1,27 +1,41 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e702fd53.css",
-    "main.js": "/portfolio/static/js/main.d3b8efeb.js",
+    "main.css": "/portfolio/static/css/main.6ac1c388.css",
+    "main.js": "/portfolio/static/js/main.b226153e.js",
     "static/js/488.d1b32952.chunk.js": "/portfolio/static/js/488.d1b32952.chunk.js",
+    "static/media/HMS_MainPage.png": "/portfolio/static/media/HMS_MainPage.ec0de981b2a45f21361b.png",
     "static/media/R1.jpg": "/portfolio/static/media/R1.dd99061b025696ab593d.jpg",
     "static/media/HospitallineProject.png": "/portfolio/static/media/HospitallineProject.918a416db74f2d542f33.png",
+    "static/media/Portfolio_ServicesSec.png": "/portfolio/static/media/Portfolio_ServicesSec.4a396e339ed69448fa5e.png",
     "static/media/WeatherAppProject.png": "/portfolio/static/media/WeatherAppProject.f20d6de2469c5f0523e2.png",
+    "static/media/Portfolio_HomeSec.png": "/portfolio/static/media/Portfolio_HomeSec.a686f9c6c31ebd6131dc.png",
+    "static/media/DashBoardPage.png": "/portfolio/static/media/DashBoardPage.727e07660c48a664735f.png",
+    "static/media/SignUpPage.png": "/portfolio/static/media/SignUpPage.bb95fcb2f195ce31f88d.png",
+    "static/media/ResetPassPage.png": "/portfolio/static/media/ResetPassPage.eda3f004580b157be4f7.png",
+    "static/media/ForgetPassPage.png": "/portfolio/static/media/ForgetPassPage.8c8ee2a1f373348e52ee.png",
+    "static/media/PassEmailSent.png": "/portfolio/static/media/PassEmailSent.0c27b23d4a44ff55d88e.png",
+    "static/media/VerifyEmailPage.png": "/portfolio/static/media/VerifyEmailPage.55a0bc6dc7a24d84bf0e.png",
+    "static/media/LoginPage.png": "/portfolio/static/media/LoginPage.5522daebb208a239dfe9.png",
     "static/media/frontend_webdeveloper.jpg": "/portfolio/static/media/frontend_webdeveloper.b9f9aa89ab8aa2920145.jpg",
     "static/media/SpotifyProject.png": "/portfolio/static/media/SpotifyProject.3346c06d45ec42d2b6ec.png",
-    "static/media/PortfolioProject.png": "/portfolio/static/media/PortfolioProject.5a5a4112ec7aa8a00ddf.png",
+    "static/media/HMS_ContactPpage.png": "/portfolio/static/media/HMS_ContactPpage.4f76b9f6a3d0526c5916.png",
+    "static/media/Portfolio_ProjectsSec.png": "/portfolio/static/media/Portfolio_ProjectsSec.c33d05c93183865853fe.png",
+    "static/media/HMS_Invoice.png": "/portfolio/static/media/HMS_Invoice.d1cb105c49d704157ed0.png",
     "static/media/profilePng.png": "/portfolio/static/media/profilePng.767d0c2c71b1589c8193.png",
+    "static/media/Portfolio_ContactSec.png": "/portfolio/static/media/Portfolio_ContactSec.5bf65be08ce5fd9e3e95.png",
+    "static/media/HMS_PatientProfilePage.png": "/portfolio/static/media/HMS_PatientProfilePage.d0af0ed9e61bc1c5a007.png",
     "static/media/Junaid-Ahmed-FullStack-web-developer-resume.pdf": "/portfolio/static/media/Junaid-Ahmed-FullStack-web-developer-resume.737970d18fb241543bf6.pdf",
     "static/media/PassGaurdProject.png": "/portfolio/static/media/PassGaurdProject.fb08b996434306053114.png",
     "static/media/Wordpress.jpg": "/portfolio/static/media/Wordpress.a00759de51f678405be7.jpg",
     "static/media/Graphics.jpg": "/portfolio/static/media/Graphics.c51337c8a4c00e234685.jpg",
     "static/media/profile.jpg": "/portfolio/static/media/profile.a3d7a8a3df62d59204bb.jpg",
     "index.html": "/portfolio/index.html",
-    "main.e702fd53.css.map": "/portfolio/static/css/main.e702fd53.css.map",
-    "main.d3b8efeb.js.map": "/portfolio/static/js/main.d3b8efeb.js.map",
+    "main.6ac1c388.css.map": "/portfolio/static/css/main.6ac1c388.css.map",
+    "main.b226153e.js.map": "/portfolio/static/js/main.b226153e.js.map",
     "488.d1b32952.chunk.js.map": "/portfolio/static/js/488.d1b32952.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e702fd53.css",
-    "static/js/main.d3b8efeb.js"
+    "static/css/main.6ac1c388.css",
+    "static/js/main.b226153e.js"
   ]
 }
