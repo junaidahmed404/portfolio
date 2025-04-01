@@ -61,7 +61,7 @@ function HomeSection() {
           </div>
           <div className="platForm borderDark borderLight border">
             <a
-              href="https://www.instagram.com/junaid_x_ahmed/"
+              href="https://www.instagram.com/junaidahmedx98/"
               target="_blank"
               rel="noopener noreferrer"
             >
