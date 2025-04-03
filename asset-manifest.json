@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.9bc8d286.css",
-    "main.js": "/portfolio/static/js/main.48ae1463.js",
+    "main.js": "/portfolio/static/js/main.68aa186e.js",
     "static/js/488.d1b32952.chunk.js": "/portfolio/static/js/488.d1b32952.chunk.js",
     "static/media/HMS_MainPage.png": "/portfolio/static/media/HMS_MainPage.ec0de981b2a45f21361b.png",
     "static/media/R1.jpg": "/portfolio/static/media/R1.dd99061b025696ab593d.jpg",
@@ -10,6 +10,7 @@
     "static/media/WeatherAppProject.png": "/portfolio/static/media/WeatherAppProject.f20d6de2469c5f0523e2.png",
     "static/media/Portfolio_HomeSec.png": "/portfolio/static/media/Portfolio_HomeSec.a686f9c6c31ebd6131dc.png",
     "static/media/DashBoardPage.png": "/portfolio/static/media/DashBoardPage.727e07660c48a664735f.png",
+    "static/media/fixing.jpeg": "/portfolio/static/media/fixing.3749cd5eccf57ac4d3af.jpeg",
     "static/media/SignUpPage.png": "/portfolio/static/media/SignUpPage.bb95fcb2f195ce31f88d.png",
     "static/media/ResetPassPage.png": "/portfolio/static/media/ResetPassPage.eda3f004580b157be4f7.png",
     "static/media/ForgetPassPage.png": "/portfolio/static/media/ForgetPassPage.8c8ee2a1f373348e52ee.png",
@@ -24,18 +25,17 @@
     "static/media/profilePng.png": "/portfolio/static/media/profilePng.767d0c2c71b1589c8193.png",
     "static/media/Portfolio_ContactSec.png": "/portfolio/static/media/Portfolio_ContactSec.5bf65be08ce5fd9e3e95.png",
     "static/media/HMS_PatientProfilePage.png": "/portfolio/static/media/HMS_PatientProfilePage.d0af0ed9e61bc1c5a007.png",
-    "static/media/Junaid-Ahmed-FullStack-web-developer-resume.pdf": "/portfolio/static/media/Junaid-Ahmed-FullStack-web-developer-resume.737970d18fb241543bf6.pdf",
+    "static/media/Junaid-Ahmed-FullStack-web-developer-resume.pdf": "/portfolio/static/media/Junaid-Ahmed-FullStack-web-developer-resume.53c2a1b8a3b59ebb9a74.pdf",
     "static/media/PassGaurdProject.png": "/portfolio/static/media/PassGaurdProject.fb08b996434306053114.png",
     "static/media/Wordpress.jpg": "/portfolio/static/media/Wordpress.a00759de51f678405be7.jpg",
-    "static/media/Graphics.jpg": "/portfolio/static/media/Graphics.c51337c8a4c00e234685.jpg",
     "static/media/profile.jpg": "/portfolio/static/media/profile.a3d7a8a3df62d59204bb.jpg",
     "index.html": "/portfolio/index.html",
     "main.9bc8d286.css.map": "/portfolio/static/css/main.9bc8d286.css.map",
-    "main.48ae1463.js.map": "/portfolio/static/js/main.48ae1463.js.map",
+    "main.68aa186e.js.map": "/portfolio/static/js/main.68aa186e.js.map",
     "488.d1b32952.chunk.js.map": "/portfolio/static/js/488.d1b32952.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9bc8d286.css",
-    "static/js/main.48ae1463.js"
+    "static/js/main.68aa186e.js"
   ]
 }
