@@ -50,7 +50,7 @@ function HomeSection() {
           </div>
           <div className="platForm borderDark borderLight border">
             <a
-              href="https://www.facebook.com/people/Junaid-Ahmed/pfbid0xXMbD16iXge2BYGRHWV9kxunKqqaZFM3F2EKemkuuRsgCZcR9dri3AfgbWHtKmDVl/?mibextid=ZbWKwL"
+              href="https://web.facebook.com/Junaidahmedx98/"
               target="_blank"
               rel="noopener noreferrer"
             >
