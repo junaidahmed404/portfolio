@@ -88,8 +88,8 @@ function HomeSection() {
             <span className="text"> Year Of Experience </span>
           </div>
           <div className="projectCount border">
-            <span className="count"> 12 </span>
-            <span className="text"> Projects </span>
+            <span className="count"> 24 </span>
+            <span className="text"> Successful Projects </span>
           </div>
         </div>
       </div>

@@ -2,7 +2,7 @@ import "./ServicesSection.css";
 import WordPress from "../../../assets/Wordpress.jpg";
 import Custom from "../../../assets/R1.jpg";
 import Frontend from "../../../assets/frontend_webdeveloper.jpg";
-import Graphics from "../../../assets/Graphics.jpg";
+import Graphics from "../../../assets/fixing.jpeg";
 import ContactMeSection from "../ContactSection/ContactSection";
 function ServicesSection() {
   return (
@@ -26,8 +26,8 @@ function ServicesSection() {
           
           <div className="serviceOfferCard border">
             <img src={Custom} alt="Custom WebApp Development" />
-            <h2 className="colorChangeHeading">Custom WebApp Development</h2>
-            <p>Turning your visions into dynamic digital realities</p>
+            <h2 className="colorChangeHeading">Custom Web App Development</h2>
+            <p>Need a tailor-made web solution? I build high-performance, scalable, and secure web applications to bring your ideas to life!</p>
             <a href={ContactMeSection}>
               {/* <button className="btn--primary btn btnBtn boxShadow">
                 Get Started
@@ -36,9 +36,9 @@ function ServicesSection() {
           </div>
           <div className="serviceOfferCard border">
             <img src={Frontend} alt="Frontend WebPage Development" />
-            <h2 className="colorChangeHeading">Frontend WebPage Development</h2>
+            <h2 className="colorChangeHeading">Frontend Web Page Development</h2>
             <p>
-              Elevating your online presence with captivating frontend design
+            Looking for a stunning, user-friendly web page? I craft responsive and dynamic front-end designs that enhance user experience!
             </p>
             <a href={ContactMeSection}>
               {/* <button className="btn--primary btn btnBtn boxShadow">
@@ -48,8 +48,8 @@ function ServicesSection() {
           </div>
           <div className="serviceOfferCard border">
             <img src={WordPress} alt="Wordpress WebApp Development" />
-            <h2 className="colorChangeHeading">Wordpress WebApp Development</h2>
-            <p>Crafting Dynamic WordPress WebApps for Your Digital Success</p>
+            <h2 className="colorChangeHeading">WordPress Web App Development</h2>
+            <p>Want a powerful WordPress web app? I create feature-rich, fast, and scalable WordPress solutions tailored to your business needs!</p>
             <a href={ContactMeSection}>
               {/* <button className="btn--primary btn btnBtn boxShadow">
                 Get Started
@@ -59,10 +59,10 @@ function ServicesSection() {
           <div className="serviceOfferCard border">
             <img src={Graphics} alt="Illustrative Graphic Design Solutions" />
             <h2 className="colorChangeHeading">
-              Illustrative Graphic Design Solutions
+            Code Modification & Optimization
             </h2>
             <p>
-              Bringing your ideas to life with vibrant creativity and precision
+            Already have code but need modifications? I can refine, optimize, or expand your existing codebase to improve functionality and performance!
             </p>
             <a href={ContactMeSection}>
               {/* <button className="btn--primary btn btnBtn boxShadow">

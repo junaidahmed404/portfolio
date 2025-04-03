@@ -3,8 +3,6 @@ import "./ProjectsSection.css";
 import SpotifyProject from "../../../assets/SpotifyProject.png";
 import PassGaurdProject from "../../../assets/PassGaurdProject.png";
 import WeatherAppProject from "../../../assets/WeatherAppProject.png";
-import DummyImage1 from "../../../assets/R1.jpg"; // Replace with real images
-import DummyImage2 from "../../../assets/Graphics.jpg"; // Replace with real images
 import P1I1 from "../../../assets/PortfolioProject/Portfolio_HomeSec.png";
 import P1I2 from "../../../assets/PortfolioProject/Portfolio_ServicesSec.png";
 import P1I3 from "../../../assets/PortfolioProject/Portfolio_ProjectsSec.png";
@@ -26,44 +24,44 @@ const projects = [
   {
     title: "Authentication Project",
     description:
-      "A standalone MERN authentication service with JWT and role-based access control.",
-    github: "https://github.com/yourusername/portfolio",
+      "A standalone MERN-based authentication service implementing JWT and role-based access control. This project highlights my expertise in authentication security, user management, and state handling.",
+    github: "https://github.com/junaidahmed404/auth-service",
     images: [P3I1, P3I2, P3I3, P3I4, P3I5, P3I6, P3I7], // Replace with real images
   },
   {
     title: "Website Developer Portfolio",
     description:
-      "A personal portfolio website showcasing my projects, skills, and experience as a web developer.",
-    github: "https://github.com/yourusername/portfolio",
+      "A personal portfolio website showcasing my skills, projects, and experience as a web developer. Designed with a sleek UI, smooth navigation, and a responsive layout to provide an engaging user experience.",
+    github: "https://github.com/junaidahmed404/portfolio",
     images: [P1I1, P1I2, P1I3, P1I4], // Replace with real images
   },
   {
     title: "Hospitalline | Hospital Management System",
     description:
-      "A comprehensive hospital management system designed to streamline administrative and patient management tasks.",
-    github: "https://github.com/yourusername/hospitalline",
+      "A full-fledged hospital management system designed to streamline administrative processes, patient records, and appointment scheduling. This project demonstrates my ability to build scalable, database-driven web applications with complex user roles.",
+    github: "https://junaidahmed404.github.io/Private_Repo_Notice/",
     images: [HospitallineProject, P2I1, P2I2, P2I3, P2I4], // Replace with real images
   },
   {
     title: "Spotify Music Player Clone",
     description:
-      "A feature-rich music player inspired by Spotify, offering a sleek, intuitive interface.",
-    github: "https://github.com/yourusername/spotify-clone",
-    images: [SpotifyProject, DummyImage1, DummyImage2], // Replace with real images
+      "A feature-rich Spotify-inspired music player with a modern UI, playlist management, and audio playback functionality. This project showcases my expertise in full-stack JavaScript development, including API integration and frontend interactivity.",
+    github: "https://github.com/junaidahmed404/spotify_clone",
+    images: [SpotifyProject], // Replace with real images
   },
   {
     title: "PassGuard | Password Manager",
     description:
-      "A secure and user-friendly password manager designed to safely store and manage passwords.",
-    github: "https://github.com/yourusername/passguard",
-    images: [PassGaurdProject, DummyImage1, DummyImage2], // Replace with real images
+      "A secure and intuitive password manager that encrypts and safely stores user credentials. This project highlights my ability to work with frontend design, authentication mechanisms, and database management (MongoDB or LocalStorage).",
+    github: "https://github.com/junaidahmed404/PassGaurd",
+    images: [PassGaurdProject], // Replace with real images
   },
   {
     title: "Weather Application",
     description:
-      "A dynamic weather application that provides real-time weather updates for any location.",
+      "A real-time weather application that fetches and displays weather data based on user location. This project showcases my ability to work with APIs, manage dynamic UI updates, and handle real-time data fetching.",
     github: "https://github.com/yourusername/weather-app",
-    images: [WeatherAppProject, DummyImage1, DummyImage2], // Replace with real images
+    images: [WeatherAppProject], // Replace with real images
   },
 ];
 

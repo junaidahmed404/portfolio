@@ -44,7 +44,7 @@ function Footer() {
               <i className="fab fa-twitter"></i>
             </a>
             <a
-              href="https://www.linkedin.com/in/junaid-ahmed-1b0a54264/"
+              href="https://www.linkedin.com/in/junaidahmed404/"
               target="_blank"
               rel="noopener noreferrer"
             >

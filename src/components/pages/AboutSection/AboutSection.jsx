@@ -26,9 +26,11 @@ function AboutMeSection() {
           seamless collaboration with Git and GitHub, I&apos;ve got you covered.
         </p>
 
-        <button className="btn--primary btn btnBtn boxShadow">
-          Start Your Journey
-        </button>
+        <a href="#contactMe">
+          <button className="btn--primary btn btnBtn boxShadow">
+            Start Your Journey
+          </button>
+        </a>
       </div>
     </section>
   );
